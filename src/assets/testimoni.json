@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Don",
+    "avatar": "https://avatar.iran.liara.run/public/1",
+    "review": "Makanannya enak banget, pelayanan cepat, dan semuanya serba praktis!"
+  },
+  {
+    "id": 2,
+    "name": "Rizky Hidayat",
+    "avatar": "https://avatar.iran.liara.run/public/2",
+    "review": "Aku sangat puas dengan rasa dan kualitasnya, recommended banget!"
+  },
+  {
+    "id": 3,
+    "name": "Gatot Subroto",
+    "avatar": "https://avatar.iran.liara.run/public/3",
+    "review": "Pelayanan sangat ramah, dan makanannya cocok untuk keluarga!"
+  },
+  {
+    "id": 4,
+    "name": "Fajar Maulana",
+    "avatar": "https://avatar.iran.liara.run/public/4",
+    "review": "Harga bersahabat, rasa mantap, pokoknya worth it!"
+  },
+  {
+    "id": 5,
+    "name": "Putra Subhan",
+    "avatar": "https://avatar.iran.liara.run/public/5",
+    "review": "Saya repeat order berkali-kali karena memang seenak itu!"
+  }
+]

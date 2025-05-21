@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Bakso",
+    "price": 78000,
+    "image": "./img/BASO.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Nasi Goreng",
+    "price": 34000,
+    "image": "./img/How.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Tahu Gejrot",
+    "price": 14500,
+    "image": "./img/Tahugejrot.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Pizza",
+    "price": 29000,
+    "image": "./img/pizza.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Roti Canai",
+    "price": 13500,
+    "image": "./img/roticanai.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Mie Ayam",
+    "price": 13000,
+    "image": "./img/MieAyam.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Spaghetti",
+    "price": 11000,
+    "image": "./img/Spaghetti.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Cheese Burger",
+    "price": 27000,
+    "image": "./img/Cheeseburger.jpg"
+  }
+]

@@ -1,0 +1,213 @@
+[
+    {
+      "Customer ID": 1,
+      "Customer Name": "Lionel Messi",
+      "Email": "messi10@example.com",
+      "Phone": "081234567001",
+      "Loyalty": "Gold"
+    },
+    {
+      "Customer ID": 2,
+      "Customer Name": "Cristiano Ronaldo",
+      "Email": "ronaldo7@example.com",
+      "Phone": "081234567002",
+      "Loyalty": "Gold"
+    },
+    {
+      "Customer ID": 3,
+      "Customer Name": "Kylian Mbappe",
+      "Email": "mbappe@example.com",
+      "Phone": "081234567003",
+      "Loyalty": "Silver"
+    },
+    {
+      "Customer ID": 4,
+      "Customer Name": "Erling Haaland",
+      "Email": "haaland@example.com",
+      "Phone": "081234567004",
+      "Loyalty": "Silver"
+    },
+    {
+      "Customer ID": 5,
+      "Customer Name": "Neymar Jr",
+      "Email": "neymar@example.com",
+      "Phone": "081234567005",
+      "Loyalty": "Gold"
+    },
+    {
+      "Customer ID": 6,
+      "Customer Name": "Kevin De Bruyne",
+      "Email": "debruyne@example.com",
+      "Phone": "081234567006",
+      "Loyalty": "Silver"
+    },
+    {
+      "Customer ID": 7,
+      "Customer Name": "Mohamed Salah",
+      "Email": "salah@example.com",
+      "Phone": "081234567007",
+      "Loyalty": "Silver"
+    },
+    {
+      "Customer ID": 8,
+      "Customer Name": "Luka Modric",
+      "Email": "modric@example.com",
+      "Phone": "081234567008",
+      "Loyalty": "Bronze"
+    },
+    {
+      "Customer ID": 9,
+      "Customer Name": "Karim Benzema",
+      "Email": "benzema@example.com",
+      "Phone": "081234567009",
+      "Loyalty": "Gold"
+    },
+    {
+      "Customer ID": 10,
+      "Customer Name": "Virgil van Dijk",
+      "Email": "vandijk@example.com",
+      "Phone": "081234567010",
+      "Loyalty": "Silver"
+    },
+    {
+      "Customer ID": 11,
+      "Customer Name": "Robert Lewandowski",
+      "Email": "lewandowski@example.com",
+      "Phone": "081234567011",
+      "Loyalty": "Gold"
+    },
+    {
+      "Customer ID": 12,
+      "Customer Name": "Sadio Mane",
+      "Email": "mane@example.com",
+      "Phone": "081234567012",
+      "Loyalty": "Silver"
+    },
+    {
+      "Customer ID": 13,
+      "Customer Name": "Harry Kane",
+      "Email": "kane@example.com",
+      "Phone": "081234567013",
+      "Loyalty": "Bronze"
+    },
+    {
+      "Customer ID": 14,
+      "Customer Name": "Antoine Griezmann",
+      "Email": "griezmann@example.com",
+      "Phone": "081234567014",
+      "Loyalty": "Silver"
+    },
+    {
+      "Customer ID": 15,
+      "Customer Name": "Toni Kroos",
+      "Email": "kroos@example.com",
+      "Phone": "081234567015",
+      "Loyalty": "Bronze"
+    },
+    {
+      "Customer ID": 16,
+      "Customer Name": "Joshua Kimmich",
+      "Email": "kimmich@example.com",
+      "Phone": "081234567016",
+      "Loyalty": "Silver"
+    },
+    {
+      "Customer ID": 17,
+      "Customer Name": "Jude Bellingham",
+      "Email": "bellingham@example.com",
+      "Phone": "081234567017",
+      "Loyalty": "Bronze"
+    },
+    {
+      "Customer ID": 18,
+      "Customer Name": "Vinicius Jr",
+      "Email": "vinicius@example.com",
+      "Phone": "081234567018",
+      "Loyalty": "Silver"
+    },
+    {
+      "Customer ID": 19,
+      "Customer Name": "Phil Foden",
+      "Email": "foden@example.com",
+      "Phone": "081234567019",
+      "Loyalty": "Bronze"
+    },
+    {
+      "Customer ID": 20,
+      "Customer Name": "Marcus Rashford",
+      "Email": "rashford@example.com",
+      "Phone": "081234567020",
+      "Loyalty": "Silver"
+    },
+    {
+      "Customer ID": 21,
+      "Customer Name": "Paulo Dybala",
+      "Email": "dybala@example.com",
+      "Phone": "081234567021",
+      "Loyalty": "Bronze"
+    },
+    {
+      "Customer ID": 22,
+      "Customer Name": "Romelu Lukaku",
+      "Email": "lukaku@example.com",
+      "Phone": "081234567022",
+      "Loyalty": "Bronze"
+    },
+    {
+      "Customer ID": 23,
+      "Customer Name": "Riyad Mahrez",
+      "Email": "mahrez@example.com",
+      "Phone": "081234567023",
+      "Loyalty": "Silver"
+    },
+    {
+      "Customer ID": 24,
+      "Customer Name": "Trent Alexander-Arnold",
+      "Email": "trent@example.com",
+      "Phone": "081234567024",
+      "Loyalty": "Silver"
+    },
+    {
+      "Customer ID": 25,
+      "Customer Name": "Pedri",
+      "Email": "pedri@example.com",
+      "Phone": "081234567025",
+      "Loyalty": "Bronze"
+    },
+    {
+      "Customer ID": 26,
+      "Customer Name": "Gavi",
+      "Email": "gavi@example.com",
+      "Phone": "081234567026",
+      "Loyalty": "Bronze"
+    },
+    {
+      "Customer ID": 27,
+      "Customer Name": "Achraf Hakimi",
+      "Email": "hakimi@example.com",
+      "Phone": "081234567027",
+      "Loyalty": "Silver"
+    },
+    {
+      "Customer ID": 28,
+      "Customer Name": "Joao Felix",
+      "Email": "felix@example.com",
+      "Phone": "081234567028",
+      "Loyalty": "Bronze"
+    },
+    {
+      "Customer ID": 29,
+      "Customer Name": "Ousmane Dembele",
+      "Email": "dembele@example.com",
+      "Phone": "081234567029",
+      "Loyalty": "Bronze"
+    },
+    {
+      "Customer ID": 30,
+      "Customer Name": "Zlatan Ibrahimovic",
+      "Email": "zlatan@example.com",
+      "Phone": "081234567030",
+      "Loyalty": "Gold"
+    }
+  ]
+  
